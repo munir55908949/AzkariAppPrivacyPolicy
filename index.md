@@ -58,6 +58,9 @@ This policy may be updated periodically. Changes take effect immediately upon be
 If you have questions, contact us at: [munirghali80@gmail.com](mailto:munirghali80@gmail.com)
 
 ---
+### Data Deletion
+This app does not store personal user data. However, if you wish to request deletion of any collected data (e.g., location permissions), you may contact us at:
+📧 munirghali80@gmail.com
 
 ## 🇸🇦 النسخة العربية
 
