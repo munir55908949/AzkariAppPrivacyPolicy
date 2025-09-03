@@ -58,9 +58,27 @@ This policy may be updated periodically. Changes take effect immediately upon be
 If you have questions, contact us at: [munirghali80@gmail.com](mailto:munirghali80@gmail.com)
 
 ---
-### Data Deletion
-This app does not store personal user data. However, if you wish to request deletion of any collected data (e.g., location permissions), you may contact us at:
-📧 munirghali80@gmail.com
+---
+
+## 🔐 How to Request Data Deletion
+
+If you would like to request the deletion of any data collected by the Azkari app:
+
+1. Contact us via email: **munirghali80@gmail.com**
+2. Include your device details and a brief description of your request
+3. Your request will be reviewed within 7 days
+
+🗑️ **What gets deleted**:
+- Device information (if collected)
+- Location usage logs (ephemeral, not stored)
+- Any crash logs (if retained)
+
+📁 **What is retained**:
+- None (we do not store any personal data long term)
+
+⏳ **Retention policy**:
+- Temporary data (e.g., crash reports, logs) is auto-deleted within 30 days
+
 
 ## 🇸🇦 النسخة العربية
 
